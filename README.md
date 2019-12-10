@@ -1,7 +1,7 @@
-#Compelieren einer Java-Datei
+# Compelieren einer Java-Datei
 
 javac HelloWorld.java
 
-#Ausführen einer Java-Datei
+# Ausführen einer Java-Datei
 
 java HelloWorld
